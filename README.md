@@ -1,4 +1,6 @@
-### Heya! Welcome to my (currently) very empty GitHub profile! I'm a soon-to-be computer science student starting this autumn and I'm super excited to learn about pretty much all there is about *everything*. My main interests are ✨*space*✨ and rockets!🚀 And of course the physics related to those!
+### Heya! 
+
+Welcome to my (currently) very empty GitHub profile! I'm a soon-to-be computer science student starting this autumn and I'm super excited to learn about pretty much all there is about *everything*. My main interests are ✨*space*✨ and rockets!🚀 And of course the physics related to those!
 
 <!--
 **sebastianhuus/sebastianhuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
