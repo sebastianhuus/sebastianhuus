@@ -4,6 +4,8 @@ Welcome to my (currently) very empty GitHub profile! I'm a soon-to-be computer s
 
 Currently trying to learn Javascript through Electron. Been fun so far!
 
+And now I've moved on to HTTP and requests using Python! Woo!
+
 <!--
 **sebastianhuus/sebastianhuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
