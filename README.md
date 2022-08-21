@@ -3,7 +3,8 @@
 Welcome to my (currently) very empty GitHub profile! I'm a software engineering student at the University of Oslo and I'm super excited to learn about pretty much all there is about *everything*. My main interests are ✨*space*✨, rockets🚀 and music!🎵 And of course the physics related to those!
 
 Recently been playing HTTPs and requests using Python! 
-Been also tampering with automation and macro programming with AutoHotKey and Python, with the end goal of automating ALL the button clicks at work!
+
+Also been tampering with automation and macro programming with AutoHotKey and Python, with the end goal of automating ALL the button clicks at work!
 
 <!--
 **sebastianhuus/sebastianhuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
