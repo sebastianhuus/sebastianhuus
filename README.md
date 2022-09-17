@@ -9,7 +9,8 @@ Just finished a Python AHK macro that scrapes websites makes vocabulary flashcar
 
 Also been tampering with automation and macro programming for work, with the end goal of automating all those tiresome mouse clicks!
 
-The first major goal is to automate generation of Azure/AD Auth tokens and temporary passwords for setting up new enterprise machines.
+[x] ~~The first major goal is to automate generation of Azure/AD Auth tokens and temporary passwords for setting up new enterprise machines.~~
+We did it boys. Friendship ended with AHK, new best friend is Selenium😎
 
 Then I'll see if I can automate device assignment and stock locations.
 
