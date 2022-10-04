@@ -16,6 +16,9 @@ Then I'll see if I can automate device assignment and stock locations.
 
 If that goes well, I'll poke arond and try automating the imaging and setup process. 
 
+---
+
+Learning a slice of web development now. Currently creating a custom start page, currently rendered using plain markup and a miniscule amount of JS
 
 ### You can stalk me here, if you feel like it
 
