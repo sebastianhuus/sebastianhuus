@@ -21,14 +21,16 @@ If that goes well, I'll poke arond and try automating the imaging and setup proc
 Learning a slice of web development now. Currently creating a custom start page, currently rendered using plain markup and a miniscule amount of JS.
 Update! It now runs on more Javascript and is locally hosted! Next step Electron maybe?
 
+
+![sebastianhuus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent)
+
+
 ### You can stalk me here, if you feel like it!
 
 <a href="https://www.linkedin.com/in/sebastian-huus/">
 <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Sebastian Huus | LinkedIn" width="30px">
 </a>
 
-
-![sebastianhuus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent)
 
 <!--
 **sebastianhuus/sebastianhuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
