@@ -8,15 +8,15 @@ Welcome to my (currently) somewhat empty GitHub profile! I'm a software engineer
 <img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
 
 ### Automation
-[x] Play around with requests in Python using the [Space Traders API](https://spacetraders.io/)
+- [x] Play around with requests in Python using the [Space Traders API](https://spacetraders.io/)
 
-[x] Python + AHK macro that scrapes websites for vocabulary words and makes flashcards in Anki (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- [x] Python + AHK macro that scrapes websites for vocabulary words and makes flashcards in Anki (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-[x] ~~The first major goal is to automate generation of Azure/AD Auth tokens and temporary passwords for setting up new enterprise machines.~~ We did it boys. Friendship ended with AHK, new best friend is Selenium😎
+- [x] ~~The first major goal is to automate generation of Azure/AD Auth tokens and temporary passwords for setting up new enterprise machines.~~ We did it boys. Friendship ended with AHK, new best friend is Selenium😎
 
 Also been tampering with automation and macro programming for work, with the end goal of automating all those tiresome mouse clicks!
 
-[ ] Currently trying to figure out how to use Power Automate to automatically scan a shared O365 mailbox, uploading replies to a Sharepoint site and then replying to emails that are handled.
+- [ ] Currently trying to figure out how to use Power Automate to automatically scan a shared O365 mailbox, uploading replies to a Sharepoint site and then replying to emails that are handled.
 
 ### Web stuff
 Learning a slice of web development now. Currently creating a custom start page, currently rendered using plain markup and a miniscule amount of JS.
