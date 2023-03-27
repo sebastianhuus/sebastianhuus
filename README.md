@@ -22,7 +22,7 @@ Learning a slice of web development now. Currently creating a custom start page,
 Update! It now runs on more Javascript and is locally hosted! Next step Electron maybe?
 
 
-![sebastianhuus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent)
+![sebastianhuus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent&hide_title=true)
 
 
 ### You can stalk me here, if you feel like it!
