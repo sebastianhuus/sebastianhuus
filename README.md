@@ -22,8 +22,8 @@ Learning a slice of web development now. Currently creating a custom start page,
 Update! It now runs on more Javascript and is locally hosted! Next step Electron maybe?
 
 
-![sebastianhuus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent&hide_title=true)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=transparent&hide_title=true)]((https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianhuus&layout=compact&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can stalk me here, if you feel like it!
 
