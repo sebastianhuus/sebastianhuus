@@ -1,7 +1,7 @@
 ## Hiya!👋
 <img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true" />
 
-Welcome to my (currently) somewhat empty GitHub profile! I'm a software engineering student at the University of Oslo and I'm super excited to learn about pretty much all there is about *everything*. My main interests are ✨*space*✨, rockets🚀 and music!🎵 And, for *natural* (heh) reasons, the physics related to those!
+Welcome to my (seemingly) empty GitHub profile! It's all top-secret personal projects that the world will never see! I'm a software engineering student at the University of Oslo and I'm super excited to learn about pretty much all there is about *everything*. My main interests are ✨*space*✨, rockets🚀 and music!🎵 And, for *natural* (heh) reasons, the physics related to those!
 
 ## 📚Current projects
 
