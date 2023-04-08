@@ -25,8 +25,7 @@ Update! It now runs on more Javascript and is locally hosted! Next step is Elect
 
 
 
-## You can stalk me here, if you feel like it!
-
+## You can reach out to me here
 <a href="https://www.linkedin.com/in/sebastian-huus/">
 <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Sebastian Huus | LinkedIn" width="30px">
 </a>
