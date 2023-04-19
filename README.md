@@ -6,7 +6,7 @@ Welcome to my (seemingly) empty GitHub profile! It's all top-secret personal pro
 <img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true" />
 
 - I'm a software engineering student at the University of Oslo and I'm super excited to learn about pretty much all there is about *everything*. 
-- I also work part time in IT for a large tech consultacy company. If the world had enough time I'd totally sit down and automate half my job 😎
+- I also work part time in IT for a large tech consulting firm. If the world had enough time I'd totally sit down and automate half my job 😎
 - My main interests are ✨*space*✨, rockets🚀 and music!🎵 And, for *natural* (heh) reasons, the physics related to those!
   - I'd love to learn signal processing to program (small) DAWs or VST instruments like synthesizers, etc, if I ever get enough time 😌
   - I'm also looking forward to working with databases and such later in my degre- I hope it'll give me some opportunitites to work with Earth observation using satelite data for assignments or other uni-related stuff. 
