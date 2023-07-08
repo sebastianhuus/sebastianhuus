@@ -30,7 +30,7 @@ Also been tampering with automation and macro programming for work, with the end
 ### Web stuff
 Learning a slice of web development now. 
 - [x] Currently creating a custom start page, currently rendered using plain markup and a miniscule amount of JS.
-- [ ] It needs to get prettier. I think I'll look into Electron or Flutter maybe. 
+- [X] Make it pretty.
 
 
 ## Find me here
