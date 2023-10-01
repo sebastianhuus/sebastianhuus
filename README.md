@@ -15,23 +15,7 @@ Welcome to my (seemingly) empty GitHub profile! It's all top-secret personal pro
 
 <img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
 
-### Automation
-- [x] Play around with requests in Python using the [Space Traders API](https://spacetraders.io/)
-
-- [x] Python + AHK macro that scrapes selected websites for vocabulary words and makes flashcards in Anki (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
-- [x] ~~The first major goal is to automate generation of Azure/AD Auth tokens and temporary passwords for setting up new enterprise machines.~~ We did it boys. Friendship ended with AHK, new best friend is Selenium😎
-
-### Work stuff
-Also been tampering with automation and macro programming for work, with the end goal of automating all those tiresome mouse clicks!
-
-- [ ] Currently trying to figure out how to use Power Automate to automatically read a shared O365 mailbox, uploading replies to a Sharepoint site and then replying to emails that are handled. <br> Also considering just figuring out how to make an SSO-compatible script to do the same without going through all the weird Microsoft stuff. 
-
-### Web stuff
-Learning a slice of web development now. 
-- [x] Currently creating a custom start page, currently rendered using plain markup and a miniscule amount of JS.
-- [X] Make it pretty.
-
+I'd have some words about my current projects here, but the previous text here got outdated :p
 
 ## Find me here
 I don't really use social media (no time for that!) but I'm usually active on LinkedIn. Feel free to check it out on the fancy button below.
