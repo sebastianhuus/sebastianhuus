@@ -38,12 +38,7 @@ I do know some other languages and tools but I don't really use them much anymor
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 
-## Find me here
-I don't really use social media (no time for that!) but I'm usually active on LinkedIn (meaning I like.. add people back and stuff). Feel free to check it out on the fancy button below.
-
-<a href="https://www.linkedin.com/in/sebastian-huus/">
-<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Sebastian Huus | LinkedIn" width="30px">
-</a>
+## Find me on [&nbsp;<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
 
 
 ## Credits
