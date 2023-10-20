@@ -3,7 +3,7 @@
 
 Welcome to my (seemingly) empty GitHub profile! It's all top-secret personal projects that the world will never see! 
 
-<img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true" />
+<img align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true" />
 
 - I'm a software engineering student at the University of Oslo and I'm super excited to learn about pretty much all there is about *everything*. 
 - I also work part time in IT for a large tech consulting firm. If the world had enough time I'd totally sit down and automate half my job 😎
@@ -13,7 +13,7 @@ Welcome to my (seemingly) empty GitHub profile! It's all top-secret personal pro
 
 ## 📚 Projects
 
-<img align="right" src="https://github-readme-stats-sebastianhuus.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
+<img align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
 
 I'd have some words about my current projects here, but the previous text here got outdated :p
 
