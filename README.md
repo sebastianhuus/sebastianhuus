@@ -2,7 +2,7 @@
 
 **About me**
 
-<img align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true"/>
+<img width="450em" align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true"/>
 
 - Taking a bachelor's degree in *programming and system architecture* at the University of Oslo.
 - Working in local tech support at Accenture, mostly managing my team and making sure stuff works.
@@ -11,10 +11,18 @@ I don't do much programming at my job but it is cool to work with big-name tools
 
 I'm interested in space, rockets and music. I hope I'll get time to work on hobby projects in these fields.
 
-**Future plans**
+<br>
+
+<div>
+<b>Future plans</b>
+
+<img align="right" width="450em" src="https://streak-stats.demolab.com?user=sebastianhuus&theme=jolly"/>
+
 - Plan to major in astrophysics or space systems after my bachelor's degree.
 - Want to learn signal processing to make a DAW and VST instruments, like synthesizers or maybe modelling real instruments - like [SWAM](https://audiomodeling.com/swam-engine)'s stuff.
 - Also want to learn how to work with satellite data and Earth observation (hence the plan to major in something space-related)
+
+</div>
 
 
 ## I use these tools
@@ -45,3 +53,5 @@ I do know some other languages and tools but I don't really use them much anymor
 Thanks to [ileriayo](https://github.com/ileriayo) for [Markdown badges](https://github.com/Ileriayo/markdown-badges#badges)
 
 Thanks to [anuraghazra](https://github.com/anuraghazra) for [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+Thanks to [DenverCoder1](https://github.com/DenverCoder1) for [Github Streak Stats](https://git.io/streak-stats)
