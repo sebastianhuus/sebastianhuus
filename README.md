@@ -2,7 +2,7 @@
 
 **About me**
 
-<img width="450em" align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true"/>
+<img width="450em" align="right" src="https://github-readme-stats-chi-navy-95.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true"/>
 
 - Taking a bachelor's degree in *programming and system architecture* at the University of Oslo.
 - Working in local tech support at Accenture, mostly managing my team and making sure stuff works.
@@ -26,7 +26,7 @@ I'm interested in space, rockets and music. I hope I'll get time to work on hobb
 
 
 ## I use these tools
-<img align="right" src="https://github-readme-stats-chi-navy-90.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
+<img align="right" src="https://github-readme-stats-chi-navy-95.vercel.app/api/top-langs/?username=sebastianhuus&count_private=true&theme=jolly&langs_count=10" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -46,7 +46,8 @@ I do know some other languages and tools but I don't really use them much anymor
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 
-## Find me on [&nbsp;<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
+## Find me on [&nbsp;<
+img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
 
 
 ## Credits
