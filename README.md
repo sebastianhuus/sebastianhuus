@@ -1,5 +1,6 @@
 ## Hiya!👋
 
+
 **About me**
 
 <img width="450em" align="right" src="https://github-readme-stats-chi-navy-95.vercel.app/api?username=sebastianhuus&count_private=true&show_icons=true&theme=jolly&hide_title=true"/>
@@ -16,7 +17,8 @@ I'm interested in space, rockets and music. I hope I'll get time to work on hobb
 <div>
 <b>Future plans</b>
 
-<img align="right" width="450em" src="https://streak-stats.demolab.com?user=sebastianhuus&theme=jolly"/>
+<
+img align="right" width="450em" src="https://streak-stats.demolab.com?user=sebastianhuus&theme=jolly"/>
 
 - Plan to major in astrophysics or space systems after my bachelor's degree.
 - Want to learn signal processing to make a DAW and VST instruments, like synthesizers or maybe modelling real instruments - like [SWAM](https://audiomodeling.com/swam-engine)'s stuff.
@@ -40,14 +42,14 @@ I'm interested in space, rockets and music. I hope I'll get time to work on hobb
 I do know some other languages and tools but I don't really use them much anymore.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity]
+(https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 
-## Find me on [&nbsp;<
-img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
+## Find me on [&nbsp;<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
 
 
 ## Credits
