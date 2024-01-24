@@ -17,8 +17,7 @@ I'm interested in space, rockets and music. I hope I'll get time to work on hobb
 <div>
 <b>Future plans</b>
 
-<
-img align="right" width="450em" src="https://streak-stats.demolab.com?user=sebastianhuus&theme=jolly"/>
+<img align="right" width="450em" src="https://streak-stats.demolab.com?user=sebastianhuus&theme=jolly"/>
 
 - Plan to major in astrophysics or space systems after my bachelor's degree.
 - Want to learn signal processing to make a DAW and VST instruments, like synthesizers or maybe modelling real instruments - like [SWAM](https://audiomodeling.com/swam-engine)'s stuff.
