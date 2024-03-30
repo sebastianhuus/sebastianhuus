@@ -47,9 +47,6 @@ I do know some other languages and tools but I don't really use them much anymor
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 
-## Find me on [&nbsp;<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px">](https://www.linkedin.com/in/sebastian-huus/)
-
-
 ## Credits
 Thanks to [ileriayo](https://github.com/ileriayo) for [Markdown badges](https://github.com/Ileriayo/markdown-badges#badges)
 
