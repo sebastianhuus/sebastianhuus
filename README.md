@@ -3,10 +3,10 @@
 ⚠️TRADE OFFER⚠️
 
 I receive: 
-    opportunity to make spacecraft for the moon & beyond🌕
+- opportunity to make spacecraft for the moon & beyond🌕
 
 You receive: 
-    space nerd with a bit of expertise everywhere
+- space nerd with a bit of expertise everywhere
 
 **About me**
 
