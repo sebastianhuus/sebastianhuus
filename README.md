@@ -10,7 +10,5 @@
 - 🧑‍🚀Wannabe astronaut
 - 👩‍🎤Music production enthusiast
 
-> What else am I supposed to put here?
-
 ## Tech stack? I dunno – whatever does the job, I guess
 Python // Power Automate // Power BI // Power Apps // C# // C // Java // Kotlin // GDScript // Gradle // Android Studio // VS Code // IDEA // Figma // Azure // Intune // Unity // Godot // 
