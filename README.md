@@ -34,8 +34,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ### Embedded
-![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-0078D4?style=for-the-badge&logo=microchip-technology&logoColor=white)
-![MPLAB X](https://img.shields.io/badge/MPLAB%20X-0078D4?style=for-the-badge&logo=microchip-technology&logoColor=white)
+![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-CC0000?style=for-the-badge&logo=microchip-technology&logoColor=white)
+![MPLAB X](https://img.shields.io/badge/MPLAB%20X-CC0000?style=for-the-badge&logo=microchip-technology&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=atmel&logoColor=white)
 
 ### Cloud & DevOps
