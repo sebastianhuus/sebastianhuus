@@ -39,7 +39,7 @@
 ![AVR](https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=atmel&logoColor=white)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white)
 ![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft-entra&logoColor=white)
 
