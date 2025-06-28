@@ -11,4 +11,4 @@
 👩‍🎤 Music production enthusiast
 
 ## Tech stack? I dunno – whatever does the job, I guess
-Python // Power Automate // Power BI // Power Apps // C# // C // Java // Kotlin // GDScript // Gradle // Android Studio // VS Code // IDEA // Figma // Azure // Intune // Unity // Godot // Microchip Studio // MPLAB X // AVR
+Python // Power Automate // Power BI // Power Apps // C# // C // Java // Kotlin // GDScript // Gradle // Android Studio // VS Code // IDEA // Figma // Azure // Intune // Unity // Godot // Microchip Studio // MPLAB X // AVR // Swift // XCode
