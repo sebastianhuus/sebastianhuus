@@ -48,3 +48,12 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Aseprite](https://img.shields.io/badge/Aseprite-ae65ae?style=for-the-badge&logo=Aseprite&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
+
+# Sample Projects
+
+I mostly make tools but recently I've made:
+- Self-hosted Mintlify-like documentation site with MDX support and authentication
+- CLI version of Perplexity for personal use with added MCP support
+
+<img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
+
