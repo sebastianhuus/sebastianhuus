@@ -1,6 +1,3 @@
-# Hiya!👋
-
-## About me
 🧑‍🎓 B.Sc. student in Programming and System Architecture \
 🖥️ Tech support team lead at [Accenture](https://www.accenture.com/) \
 🚀 Rocket engine sensors lead at [Portal Space](https://portalspace.no/) \
@@ -8,6 +5,7 @@
 🛸 Occasional space hackathon mentor \
 🌌 Space nerd (in case you didn't catch that already🤓) \
 🧑‍🚀 Wannabe astronaut \
+🎮 I love gamedev but I find game engines daunting😬 \
 👩‍🎤 Music production enthusiast
 
 ## Tech stack? I dunno – whatever does the job, I guess
