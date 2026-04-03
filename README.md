@@ -1,14 +1,23 @@
-🧑‍🎓 B.Sc. student in Programming and System Architecture \
-🖥️ Tech support team lead at [Accenture](https://www.accenture.com/) \
-🚀 Rocket engine sensors lead at [Portal Space](https://portalspace.no/) \
-🛰️ Board member at [Tekna Space](https://www.tekna.no/en) \
-🛸 Occasional space hackathon mentor \
-🌌 Space nerd (in case you didn't catch that already🤓) \
-🧑‍🚀 Wannabe astronaut \
-🎮 I love gamedev but I find game engines daunting😬 \
-👩‍🎤 Music production enthusiast
+![who](https://github.com/user-attachments/assets/30941968-3f88-4a0f-a36f-c1cd5abb3df0)
 
-## Tech stack? I dunno – whatever does the job, I guess
+- Rocket engine sensors lead at [Portal Space](https://portalspace.no/) 🚀
+- Tech support team lead at [Accenture](https://www.accenture.com/) (yes I do both roles currently)
+- B.Sc. Programming and System Architecture
+- Board member at [Tekna Space](https://www.tekna.no/en)
+- Occasional space hackathon mentor
+- Space nerd (in case you didn't catch that already🤓)
+- Wannabe astronaut
+- I love gamedev but I find game engines daunting😬
+- Music production enthusiast
+
+**Currently working on**
+- Documentation site for Portal Space, now built with Fumadocs
+- Rocket sensor and logging embedded systems
+- Calendar sync service
+
+## Tech stack?
+
+**Whatever completes the mission**. Below is a selection I've used a bit:
 
 ### Languages & Platforms
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,6 +44,7 @@
 ![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-CC0000?style=for-the-badge&logo=microchip-technology&logoColor=white)
 ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-CC0000?style=for-the-badge&logo=microchip-technology&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=atmel&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### Tools & Design
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,3 +65,8 @@ I mostly make tools but recently I've made:
 
 <img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
 
+# Credit where credit is due
+
+Thanks to Charmbracelet for wonderful CLI tools. The gif at the top was made with VHS. 
+
+Thanks to Shields.io for all the badges.
