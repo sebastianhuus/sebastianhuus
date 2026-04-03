@@ -59,16 +59,46 @@
 
 # Sample Projects
 
-I mostly make tools but recently I've made:
-- Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
-- CLI version of Perplexity for personal use with added MCP support. Absolutely shreds vibe-troubleshooting someone else's codebase.
-- Serial debugger for embedded sensor system built with Tauri
-- CalSync, a service to sync my bazillion calendars. No screenshots of this; its 99% backend just calling Google APIs
+I mostly make tools but recently I've made the stuff below. Click the arrow ▶ to open the section or ▼ to close it.
+<details open>
+<summary>
+  <b>Documentation site, Perplexity CLI with MCP</b>
+</summary>
+
+Left: Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
+
+Right: CLI version of Perplexity for personal use with added MCP support. Absolutely shreds vibe-troubleshooting someone else's codebase.
 
 <img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
 
+</details>
+
+<details open>
+<summary>
+  <b>Serial debugger for embedded sensor system built with Tauri</b>
+</summary>
+  
 <img width="2672" height="1421" alt="image" src="https://github.com/user-attachments/assets/a24d7f7d-203a-414c-9e6a-30cf77c45280" />
 
+</details>
+
+<details open>
+<summary>
+  <b>CalSync, a service to sync my bazillion calendars</b>
+</summary>
+  
+I made this because no service supports Google Calendar → Outlook sync where we don't have access to the Outlook API; fixed that by sending iCal invites to Outlook to block the recipient calendar.
+
+It's 99% backend tied to Google's APIs but below is the 1% of front end letting me control it, shown below. You can also see the result; all the colored events there are created with CalSync. It clones events between GCals, colors them based on context (in my case: keywords) and reacts to changes ASAP thanks to webhooks.
+
+<b>Dashboard</b>
+<img width="1067" height="1169" alt="SCR-20260403-sdby" src="https://github.com/user-attachments/assets/6019f7d6-6486-4293-9e2c-06e79fb8e40e" />
+
+<b>Calendar</b>
+<img width="1922" height="975" alt="SCR-20260403-sfog" src="https://github.com/user-attachments/assets/66641003-9a7f-43a0-b652-3135dc961064" />
+
+
+</details>
 
 # Credit where credit is due
 
