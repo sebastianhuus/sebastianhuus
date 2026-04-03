@@ -60,10 +60,14 @@
 # Sample Projects
 
 I mostly make tools but recently I've made:
-- Self-hosted Mintlify-like documentation site with MDX support and authentication
-- CLI version of Perplexity for personal use with added MCP support
+- Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
+- CLI version of Perplexity for personal use with added MCP support. Absolutely shreds vibe-troubleshooting someone else's codebase.
+- Serial debugger for embedded sensor system built with Tauri
 
 <img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
+
+<img width="2672" height="1421" alt="image" src="https://github.com/user-attachments/assets/a24d7f7d-203a-414c-9e6a-30cf77c45280" />
+
 
 # Credit where credit is due
 
