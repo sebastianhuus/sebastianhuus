@@ -63,6 +63,7 @@ I mostly make tools but recently I've made:
 - Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
 - CLI version of Perplexity for personal use with added MCP support. Absolutely shreds vibe-troubleshooting someone else's codebase.
 - Serial debugger for embedded sensor system built with Tauri
+- CalSync, a service to sync my bazillion calendars. No screenshots of this; its 99% backend just calling Google APIs
 
 <img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
 
