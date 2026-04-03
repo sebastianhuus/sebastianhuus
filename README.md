@@ -65,11 +65,22 @@ I mostly make tools but recently I've made the stuff below. Click the arrow ▶ 
   <b>Documentation site, Perplexity CLI with MCP</b>
 </summary>
 
-Left: Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
 
-Right: CLI version of Perplexity for personal use with added MCP support. Absolutely shreds vibe-troubleshooting someone else's codebase.
+**Left: Portaldoc v1**
+
+Self-hosted Mintlify-like documentation site with MDX support and authentication. Later replaced with Fumadocs once I found out someone had done the exact same work and was maintaining it🙏
+
+**Right: CLI version of Perplexity for personal use with added MCP support**
+
+Absolutely shreds vibe-troubleshooting someone else's codebase. I let Claude use the MCP since I found the results more helpful than letting it use its built-in search tool. Before this, I'd generate research questions for a problem, paste them to Perplexity and paste the answer back. This makes the process more hands-off.
 
 <img width="2191" height="1367" alt="portfolio" src="https://github.com/user-attachments/assets/48663e63-9125-4baa-bff4-c7beb4fa4f64" />
+
+**Portaldoc v2**
+
+The migration lets me spend more time on end-user facing features rather than the MDX engine itself.
+
+<img width="1569" height="1223" alt="image" src="https://github.com/user-attachments/assets/0808731f-2eef-4db1-a572-fe860d9e3bfd" />
 
 </details>
 
